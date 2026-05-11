@@ -1,16 +1,41 @@
-## Hi there 👋
+Hey there 👀
 
-<!--
-**maxyxy123/maxyxy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Max, a full-stack developer currently focused on building modern web applications and learning scalable systems. 🙀
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real products and figuring things out by building. 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm mainly working with Next.js, React, TailwindCSS, Node.js, NestJS, and PostgreSQL. ⚡
+
+I'm especially interested in:
+
+🏗️ backend architecture
+🔐 APIs & auth systems
+🧩 product-focused engineering
+🤖 AI workflows & automation
+
+Currently trying to get better at shipping projects consistently instead of endlessly tweaking them. 📦
+
+Tech Stack 💻
+
+Next.js
+React
+TailwindCSS
+Node.js
+NestJS
+PostgreSQL
+REST APIs
+Auth Systems
+
+Other Tools 🧰
+
+WordPress
+GitHub
+AI Tools
+Notion
+
+Fun Facts ✨ 🤓
+
+I learn best by building random projects
+Most of my coding sessions start at night 🌙
+Half my bugs disappear after rereading the docs 📚
+Still grinding every day 🔥
