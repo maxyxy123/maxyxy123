@@ -1,41 +1,28 @@
 # Hey there 👀
 
-I'm Max, a full-stack developer focused on building modern web applications and learning scalable systems. 🙀
+I'm Max, a full-stack developer grinding modern web apps and scalable systems. 🙀
 
-I enjoy turning ideas into real products and figuring things out by actually building them. 🛠️
+I like turning ideas into real products by building, breaking, and fixing things. 🛠️
 
-Right now, I'm mainly working with Next.js, React, TailwindCSS, Node.js, NestJS, and PostgreSQL. ⚡
+Currently working with Next.js, React, TailwindCSS, Node.js, NestJS, and PostgreSQL. ⚡
 
-## I'm especially interested in
+## Interested in
 
 - 🏗️ Backend architecture
 - 🔐 APIs & auth systems
 - 🧩 Product-focused engineering
-- 🤖 AI workflows & automation
-
-Currently trying to get better at shipping projects consistently instead of endlessly tweaking them. 📦
+- 🤖 AI workflows
 
 ## Tech Stack 💻
 
-- Next.js
-- React
-- TailwindCSS
-- Node.js
-- NestJS
-- PostgreSQL
-- REST APIs
-- Auth Systems
+Next.js • React • TailwindCSS • Node.js • NestJS • PostgreSQL • REST APIs • Auth Systems
 
 ## Other Tools 🧰
 
-- WordPress
-- GitHub
-- AI Tools
-- Notion
+WordPress • GitHub • AI Tools • Notion
 
-## Fun Facts ✨ 🤓
+## Fun Facts ✨
 
-- I learn best by building random projects 🧠
-- Most of my coding sessions start at night 🌙
-- Half my bugs disappear after rereading the docs 📚
+- Building random projects is how I learn best 🧠
+- Night coding hits different 🌙
 - Still grinding every day 🔥
