@@ -1,4 +1,4 @@
-# Hey there 👀
+# Hey there =))
 
 I'm Max, a full-stack developer grinding modern web apps and scalable systems. 
 
