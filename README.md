@@ -12,7 +12,7 @@ Currently working with Next.js, React, TailwindCSS, Node.js, NestJS, and Postgre
 -  APIs & auth systems
 -  Product-focused engineering
 -  AI workflows
-
+-  League of Legend, peak GrandMaster 650LP
 ## Tech Stack 
 
 Next.js • React • TailwindCSS • Node.js • NestJS • PostgreSQL • REST APIs • Auth Systems
